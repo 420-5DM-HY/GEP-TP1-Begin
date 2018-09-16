@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400de0e1-a549-44ee-a3ad-7d6fcbbf6524" name="Default" comment="" />
+    <list default="true" id="400de0e1-a549-44ee-a3ad-7d6fcbbf6524" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/.idea/runConfigurations.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/proguard-rules.pro" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/androidTest/java/com/example/casualspy/tictactoeandroid/ExampleInstrumentedTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/AndroidManifest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/java/com/example/casualspy/tictactoeandroid/ActionsTTT.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/java/com/example/casualspy/tictactoeandroid/EvenementsTTT.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/java/com/example/casualspy/tictactoeandroid/Joueur.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/java/com/example/casualspy/tictactoeandroid/Logique.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/java/com/example/casualspy/tictactoeandroid/MainActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/java/com/example/casualspy/tictactoeandroid/Modele.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/java/com/example/casualspy/tictactoeandroid/PositionInvalide.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/drawable/ic_launcher_background.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/values/colors.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/values/strings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/main/res/values/styles.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/app/src/test/java/com/example/casualspy/tictactoeandroid/ExampleUnitTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/gradle.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/gradlew" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/gradlew.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TicTacToeAndroid/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeConsole/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/TicTacToeConsole/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeConsole/.idea/gradle.xml" afterPath="$PROJECT_DIR$/TicTacToeConsole/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeConsole/.idea/misc.xml" afterPath="$PROJECT_DIR$/TicTacToeConsole/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/TicTacToeConsole/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/TicTacToeConsole/.idea/runConfigurations.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +72,11 @@
     <option name="width" value="1400" />
     <option name="height" value="1011" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -38,17 +90,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
       <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GEP-TP1-Begin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GEP-TP1-Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GEP-TP1-Begin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GEP-TP1-Begin" type="462c0819:PsiDirectoryNode" />
+              <item name="TicTacToeConsole" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TicTacToeConsole" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TicTacToeAndroid" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
