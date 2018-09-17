@@ -122,7 +122,6 @@ public class Logique extends Modele {
         }
         else {
             interfaceUtilisateur.positionDejaOccuppee();
-            interfaceUtilisateur.auTourDe(joueurActif);
             return;
         }
     }
